@@ -7,5 +7,11 @@ public class Seat {
         SEATED,
         RESERVED,
     }
+
+    public enum SeatType {
+        TABLE,
+        COUNTER,
+        PRIVATE,
+    }
     
 }
