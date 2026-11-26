@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+    background-color: #f5f7fa;
+    color: #333;
+}
+
+header {
+    background-color: #24364b;
+    color: white;
+    padding: 22px 40px;
+}
+
+header h1 {
+    font-size: 24px;
+}
+
+header span {
+    font-size: 11px;
+    color: #cbd5e1;
+}
+
+main {
+    max-width: 1100px;
+    margin: 40px auto;
+    padding: 0 25px;
+}
+
+footer {
+    text-align: center;
+    padding: 25px;
+    color: #888;
+}
